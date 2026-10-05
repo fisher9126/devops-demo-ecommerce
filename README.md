@@ -1,3 +1,5 @@
 # Devops Demo Ecommerce
 
-Status: hotfix applied on main
+
+Status: new feature in progress
+
