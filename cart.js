@@ -1,4 +1,4 @@
 function purchase(totalAmount) {
-    // giả sử totalAmount là số tiền tạm tính
-    return totalAmount;
+    totalAmount*=0.9
+    return totalAmount*=0.95;
 }
