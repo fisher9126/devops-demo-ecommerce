@@ -1,3 +1,3 @@
 # Devops Demo Ecommerce
 
-Status: stable version
+Status: hotfix applied on main
